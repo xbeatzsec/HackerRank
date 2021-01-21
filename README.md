@@ -12,7 +12,7 @@
     <th>Difficulty</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators">Arithmetic Operators.py</a></td>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators.py">Arithmetic Operators</a></td>
     <td>Easy</td>
   </tr>
   <tr>
