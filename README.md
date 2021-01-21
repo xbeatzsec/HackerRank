@@ -31,11 +31,20 @@
     <th>Difficulty</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators.py">Hello World</a></td>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Hello_world.js">Hello World</a></td>
     <td>Easy</td>
   </tr>
   <tr>
-    <td>Division</td>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators.js">Arithmetic Operators</a></td>
+    <td>Easy</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Data_Types.js">Data Types</a></td>
+    <td>Easy</td>
+  </tr>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Let_and_Const.js">Let and Const</a></td>
     <td>Easy</td>
   </tr>
 </table>
