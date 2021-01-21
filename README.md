@@ -1,6 +1,7 @@
 # HackerRank
 
-<a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators.py">Problem</a>
+<h1><c>My Solutions<c></h1>
+
 
 <table>
   <tr>
