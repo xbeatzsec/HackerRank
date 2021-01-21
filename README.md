@@ -2,6 +2,9 @@
 
 ## My Solutions
 
+All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> problems are available on the table below :)
+
+
 
 <table>
   <tr>
