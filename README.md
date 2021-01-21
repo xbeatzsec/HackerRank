@@ -2,7 +2,7 @@
 
 ## My Solutions
 
-<br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> python problems are available on the table below :) 
+<br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> <ins>Python</ins> problems are available on the table below :) 
 
 
 
@@ -23,7 +23,7 @@
 
 </body>
 
-<br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> JavaScript problems are available on the table below :) 
+<br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> <ins>JavaScript</ins> problems are available on the table below :) 
 
 <br /><table>
   <tr>
