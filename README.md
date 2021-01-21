@@ -16,7 +16,7 @@
     <td>Easy</td>
   </tr>
   <tr>
-    <td>Division</td>
+    <td>Division.py</td>
     <td>Easy</td>
   </tr>
 </table>
