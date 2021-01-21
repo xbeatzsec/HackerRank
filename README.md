@@ -2,7 +2,7 @@
 
 ## My Solutions
 
-<br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> problems are available on the table below :) 
+<br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> python problems are available on the table below :) 
 
 
 
@@ -12,7 +12,7 @@
     <th>Difficulty</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators.py">Arithmetic Operators.py</a></td>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators">Arithmetic Operators.py</a></td>
     <td>Easy</td>
   </tr>
   <tr>
