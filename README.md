@@ -1,6 +1,6 @@
 # HackerRank
 
-<h1><c>My Solutions<c></h1>
+## My Solutions
 
 
 <table>
