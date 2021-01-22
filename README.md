@@ -1,5 +1,9 @@
 # HackerRank
 
+<p align="center">
+  <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg">
+</p>
+
 ## My Solutions
 
 <br />All my solutions of <a href="https://www.hackerrank.com/">HackerRank</a> <ins>Python</ins> problems are available on the table below :) 
