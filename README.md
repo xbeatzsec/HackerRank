@@ -19,8 +19,24 @@
     <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Arithmetic_Operators.py">Arithmetic Operators</a></td>
     <td>Easy</td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Division.py">Division</a></td>
+    <td>Easy</td>
+  </tr>
   <tr>
-    <td>Division</td>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/if_Else.py">if Else</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Loops.py">Loops</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/PrintF_Function.py">Print Fuction</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xbeatzsec/HackerRank/edit/main/Write_a_Function.py">Write a Fuction</a></td>
     <td>Easy</td>
   </tr>
 </table>
